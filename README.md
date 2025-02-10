@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! I'm Hathaway 👋  
+🚀 Software Engineer | Big Data | Cloud Technologies 🚀  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C7DBE6&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Passionate+about+Big+Data+and+Cloud+☁️" alt="Typing Animation">
+</p>
 
-<!--
-**chhsch/chhsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍💻 About Me  
+🔭 Currently pursuing MEng in Computer Science @ Virginia Tech  
+🎓 Former Big Data Engineering Intern @ Eviden  
+🌱 Passionate about building scalable big data solutions, machine learning, and cloud computing  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+💻 Python | Java | SQL | JavaScript  
+⚡ Kafka | Spark | Airflow | Cassandra | PostgreSQL | Druid | AWS  
+🔧 Docker | Kubernetes | Flask | React | Git | Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/hathawaychen/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:hathaway1214@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
