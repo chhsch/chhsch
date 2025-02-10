@@ -1,12 +1,12 @@
 # Hi there! I'm Hathaway 👋  
-🚀 Software Engineer | Big Data | Cloud Technologies 🚀  
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CCDF92&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Passionate+about+Big+Data+and+Cloud+☁️" alt="Typing Animation">
 </p>
 
 ## 👩🏻‍💻 About Me  
 🔭 Currently pursuing MEng in Computer Science @ Virginia Tech  
-🎓 Former Big Data Engineering Intern @ Eviden  
+🎓 Former Big Data Engineering Intern @ Eviden | Software Engineer Intern @ Clocky  
 🌱 Passionate about building scalable big data solutions, machine learning, and cloud computing  
 
 ## 🛠 Tech Stack  
