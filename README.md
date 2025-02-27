@@ -6,7 +6,7 @@
 
 ## 👩🏻‍💻 About Me  
 🔭 Currently pursuing MEng in Computer Science @ Virginia Tech  
-🎓 Former Big Data Engineering Intern @ Eviden | Software Engineer Intern @ Clocky  
+🎓 Former Big Data Engineering Intern @ Eviden | Software Engineer Intern @ Clocky | Research Assistant @ Academia Sinica
 🌱 Passionate about building scalable big data solutions, machine learning, and cloud computing  
 
 ## 🛠 Tech Stack  
