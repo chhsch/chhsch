@@ -1,8 +1,12 @@
 # Hi there! I'm Hathaway 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CCDF92&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Passionate+about+Big+Data+and+Cloud+☁️" alt="Typing Animation">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CCDF92&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Passionate+about+Big+Data+and+Cloud+☁️" 
+    alt="Typing animation showing 'Passionate about Big Data and Cloud ☁️'" 
+  />
 </p>
+
 
 ## 👩🏻‍💻 About Me  
 🔭 Currently pursuing MEng in Computer Science @ Virginia Tech  
