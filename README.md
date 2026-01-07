@@ -3,8 +3,8 @@
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CCDF92&center=true&vCenter=true&width=600&lines=Passionate+about+Big+Data+and+Cloud+☁️)
 
 ## 👩🏻‍💻 About Me  
-🔭 Currently pursuing MEng in Computer Science @ Virginia Tech  
-🎓 Former Big Data Engineering Intern @ Eviden | Software Engineer Intern @ Clocky  
+🔭 Currently Software Engineering LP @ Acuity
+🎓 MEng in Computer Science @ Virginia Tech | Former Big Data Engineering Intern @ Eviden | Software Engineer Intern @ Clocky  
 🌱 Passionate about building scalable big data solutions, machine learning, and cloud computing  
 
 ## 🛠 Tech Stack  
