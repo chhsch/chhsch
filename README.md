@@ -4,7 +4,7 @@
 
 ## 👩🏻‍💻 About Me  
 🔭 Currently Software Engineering LP @ Acuity  
-🎓 MEng in Computer Science @ Virginia Tech | Former Big Data Engineering Intern @ Eviden | Software Engineer Intern @ Clocky  
+🎓 MEng in Computer Science @ Virginia Tech | Former Big Data Engineering Intern @ Eviden  
 🌱 Passionate about building scalable big data solutions, machine learning, and cloud computing  
 
 ## 🛠 Tech Stack  
